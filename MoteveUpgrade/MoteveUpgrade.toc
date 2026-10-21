@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cff33e0c2Mo|r|cff8f6bffteve|r Upgrade
+## Notes: Highlights bag items that are stat-weight upgrades for your class and role.
+## Author: Zoltán Gosztonyi
+## Version: 0.2.2
+## SavedVariables: MoteveUpgradeDB
+## SavedVariablesPerCharacter: MoteveUpgradeChar
+
+Weights.lua
+MoteveUpgrade.lua
